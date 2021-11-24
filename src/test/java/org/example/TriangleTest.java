@@ -53,5 +53,4 @@ public class TriangleTest {
         Triangle obj1= new Triangle(-3, 1, 5);
         Assert.assertEquals(false, obj1.canColculateArea(obj1));
     }
-
 }

@@ -19,7 +19,6 @@ public class Triangle {
     public Triangle() {
     }
 
-
     public double areaOfTriangle (Triangle o){
         if (a <= 0 || b <= 0 || c <= 0)
             System.out.println("В треугольнике должны быть только положительные длины сторон");
